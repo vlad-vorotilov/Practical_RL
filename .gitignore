@@ -20,6 +20,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+.env/
 bin/
 build/
 develop-eggs/
@@ -75,3 +76,6 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+videos
+.vscode/
